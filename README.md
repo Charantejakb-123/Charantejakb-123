@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello! I'M Charan:
 🔭 I’m currently working on:<br>An Intelligent Hybrid Weigh-In-Motion (WIM) System using Load Cell & Piezoelectric Sensors for Dynamic Vehicle Weight Estimation.<br><br>👯 I’m looking to collaborate on:<br>Full Stack Development, IoT Solutions, Cybersecurity Projects, and Open Source Contributions.<br><br>🤝 I’m looking for help with:<br>Cloud Computing (AWS), System Design, and Advanced Full Stack Development.<br><br>🌱 I’m currently learning:<br>Java, Data Structures & Algorithms, AWS Cloud, Full Stack Development, and DevOps.<br><br>💬 Ask me about:<br>IoT, Cybersecurity, Web Development, Java, Python, Research Projects, and Hackathons.<br><br>⚡ Fun fact:<br>I'm a published IEEE author, TechFest organizer, Design Head, photographer, and award-winning drama director—all while pursuing Computer Science.
 
 
